@@ -4,6 +4,10 @@
 .env.production
 .env.development
 
+#Virtual Envrioments
+travio
+venv
+
 # Dependencies
 node_modules/
 frontend/node_modules/

@@ -169,25 +169,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 2. Set `NEXT_PUBLIC_API_URL` to your backend URL
 3. Deploy from the `frontend/` directory
 
-## 📊 Evaluation Criteria Met
-
-### Code Quality (40%)
-- ✅ Clean, well-documented code
-- ✅ Proper error handling
-- ✅ Code organization and structure
-- ✅ API design
-
-### Technical Implementation (30%)
-- ✅ Successful integration of all required technologies
-- ✅ Performance and responsiveness
-- ✅ Proper use of modern features in Next.js and FastAPI
-
-### UI/UX Design (30%)
-- ✅ Visual appeal using TailwindCSS
-- ✅ Responsive design
-- ✅ User interaction flow
-- ✅ Loading States
-
 ## 🔮 Future Improvements
 
 - User authentication and personalized history
