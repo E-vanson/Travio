@@ -5,8 +5,8 @@
 .env.development
 
 #Virtual Envrioments
-travio
-venv
+travio/
+venv/
 
 # Dependencies
 node_modules/
