@@ -31,7 +31,7 @@ class OpenRouterService:
                         {"role": "system", "content": self.system_prompt},
                         {"role": "user", "content": query}
                     ],
-                    max_tokens=1000,
+                    max_tokens=2000,
                     temperature=0.7
                 ),
                 timeout=30.0
